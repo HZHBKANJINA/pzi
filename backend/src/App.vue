@@ -3,9 +3,8 @@
 </script>
 
 <template>
-  <h1 class="bg-purple-500">Pozdrav</h1>
+    <router-view></router-view>
 </template>
 
-<style scoped>
-
+<style>
 </style>
